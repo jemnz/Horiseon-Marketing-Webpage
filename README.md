@@ -5,7 +5,7 @@ I have refractored the marketing agency's website in order to make it more acces
 
 ## Installation
 The website can be opened in any browser via the following link: 
-[Link to Deployed website] (https://jemnz.github.io/Horiseon-Marketing-Webpage/)
+[Link to Deployed website](https://jemnz.github.io/Horiseon-Marketing-Webpage/)
 
 ## Usage
 Below is a screenshot of the deployed website which shows the links in the navigation bar to access different sections (Search Engine Optimization,Online Reputation Management and Social Media Marketing) of the website.
